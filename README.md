@@ -5,7 +5,9 @@ The Indian Premier League (IPL) is a professional men's Twenty20 cricket league,
 Description:
 
 I have used two CSV files, namely Deliveries.csv and Matches.csv to do the analysis
+
 •	Deliveries table has 1,50,460 rows. It contains ball-by-ball data from IPL 2008 to 2017.
+
 •	Matches table has 636 rows. It contains match-to-match data & results of matches played between IPL 2008 to 2017.
 
 
